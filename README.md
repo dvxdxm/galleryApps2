@@ -1,2 +1,0 @@
-# galleryApps
-app first mobile
